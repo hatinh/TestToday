@@ -21,7 +21,7 @@ public class TestToday {
         System.out.println("6!= " +  MyToys.cF(6));// hy vọng 720
         System.out.println("0!= " +  MyToys.cF(0));// hy vọng 1
         System.out.println("-5!= " +  MyToys.cF(-5));// vỡ mặt
-        System.out.println("!= " +  MyToys.cF(5));// hy vọng 120
+        
         
         
     }
