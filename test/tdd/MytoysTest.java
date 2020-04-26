@@ -27,7 +27,7 @@ public class MytoysTest {
         public void testSucessfullCases(){
         
             assertEquals(1, cF(0));// KÌ VỌNG ÓI VỀ CON 1 KHI TAO GỌI HÀM CF(0)
-            assertEquals(20, cF(2));
+            assertEquals(2, cF(2));
             assertEquals(6, cF(3));
             assertEquals(24, cF(4));
             assertEquals(120, cF(5));
